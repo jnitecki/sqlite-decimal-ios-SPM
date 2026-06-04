@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SQLite_Decimal",
-            url: "https://github.com/jnitecki/sqlite-decimal-ios/releases/download/3.51.0/SQLite_Decimal.xcframework.zip",
-            checksum: "fc2ccd55eff827ce4b81695e163164d567b07bd378c83f5058acd50149e66b98"
+            url: "https://github.com/jnitecki/sqlite-decimal-ios/releases/download/3.53.2/SQLite_Decimal.xcframework.zip",
+            checksum: "4821d6b76f74bd2580cdb416b5e9c84f5ec985ad4febbdebbbb409c8d4e0c816"
         )
     ]
 )
